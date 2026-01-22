@@ -1,10 +1,14 @@
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Hi+I'm+Dikshant+Kumar+Singh;B.Tech+CSE+Student;Web+%26+AI%2FML+Developer;Research+Author+in+NLP" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
+
+---
+
 
 
 # 💫 About Me:
